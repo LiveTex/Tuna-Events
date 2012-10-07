@@ -229,3 +229,10 @@ events.EventDispatcher.prototype.addEventListener = function(type, listener) {};
  * @inheritDoc
  */
 events.EventDispatcher.prototype.hasEventListener = function(type, listener) {};
+
+
+/**
+ * @inheritDoc
+ */
+events.EventDispatcher.prototype.removeEventListener =
+    function(type, listener) {};
