@@ -1,12 +1,9 @@
 {
-  "name": "tuna-events", 
+  "name": "web-events",
   "main": "bin/index.js", 
-  "version": "0.0.2", 
-  "dependencies": {
-    "tuna-util": "0.0.2"
-  }, 
+  "version": "0.0.0",
   "repository": {
     "type": "git", 
-    "url": "https://github.com/LiveTex/Tuna-Events"
+    "url": "https://github.com/LiveTex/Web-Events"
   }
 }
