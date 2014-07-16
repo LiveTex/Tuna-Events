@@ -1,3 +1,4 @@
+../node_modules/tuna-util/bin/index.js
 events/events.js
 events/event.js
 events/i-event-dispatcher.js

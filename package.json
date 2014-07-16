@@ -1,9 +1,9 @@
 {
   "name": "tuna-events", 
   "main": "bin/index.js", 
-  "version": "0.0.1", 
+  "version": "0.0.2", 
   "dependencies": {
-    "tuna-util": "*"
+    "tuna-util": "0.0.2"
   }, 
   "repository": {
     "type": "git", 
